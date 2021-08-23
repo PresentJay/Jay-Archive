@@ -9,10 +9,16 @@
     - `Automatic Bin Packing`
     - `Self-Healing`
     - `Secret and Configuration Management`
-
+- 다음으로 구성되어 있다.
+    - `Cluster`
+        - `Control Plain`
+        - `Worker Node`
+            - `Pod`
+        - `Add-On`
 
 ---
 
 ## `Reference`
 
 1. https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/
+2. https://kubernetes.io/ko/docs/concepts/overview/components/
